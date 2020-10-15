@@ -1,4 +1,4 @@
-# Neural Net Forecasting
+# Economic Forecasting Using Neural Nets
 
 [In Progress]
 
